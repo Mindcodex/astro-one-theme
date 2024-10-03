@@ -1,6 +1,6 @@
 {
-  "name": "astro-one",
-  "displayName": "astro-one",
+  "name": "astro-one-theme",
+  "displayName": "Astro One",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -17,5 +17,9 @@
         "path": "./themes/Astro One-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mindcodex/astro-one-theme"
   }
 }
