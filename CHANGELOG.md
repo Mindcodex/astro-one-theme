@@ -1,9 +1,20 @@
 # Change Log
 
-All notable changes to the "astro-one" extension will be documented in this file.
+All notable changes to the "Astro One" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.0.0] - 2024-10-04
 
-- Initial release
+- Added support for JSON syntax.
+- Added support for CSS/SCSS
+- Added support for Yaml.
+- Updated color for language constants.
+- Updated color for language keyword like "new, instanceof, keyof and this".
+- Updated color for Classes and Inheritance Classes.  
+- Fix variable.defaultLibrary.foreground color.
+- Fix regexp colors.
+
+## [0.0.1] - 2024-09-04
+
+- Initial release.

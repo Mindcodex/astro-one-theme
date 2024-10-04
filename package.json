@@ -3,6 +3,7 @@
   "displayName": "Astro One",
   "description": "",
   "version": "0.0.1",
+  "publisher": "Mindcodex",
   "engines": {
     "vscode": "^1.93.0"
   },
@@ -21,5 +22,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Mindcodex/astro-one-theme"
-  }
+  },
+  "license": "MIT"
 }
