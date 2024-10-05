@@ -12,7 +12,7 @@
 | ![#7fdbca](https://place-hold.it/15/7fdbca/7fdbca?text=+) `#7fdbca` | This keyword, Object properties, Operators Expression Regex group symbol, CSS attribute name, Terminal Green |
 | ![#ff5874](https://place-hold.it/15/ff5874/ff5874?text=+) `#ff5874` | Boolean constants, Language support constants, CSS tag selector, CSS constants |
 | ![#ffc88b](https://place-hold.it/15/ffc88b/ffc88b?text=+) `#ffc88b` | Strings, Class names, CSS Units, interfaces, Terminal Yellow |
-| ![#c5e478](https://place-hold.it/15/ffc88b/ffc88b?text=+) `#ffc88b` | CSS class, Primitives types, HTML attributes |
+| ![#c5e478](https://place-hold.it/15/c5e478/c5e478?text=+) `#c5e478` | CSS class, Primitives types, HTML attributes |
 | ![#88aaff](https://place-hold.it/15/88aaff/88aaff?text=+) `#88aaff` | Function names, CSS property names, Variable declaration , Markdown Links description, Terminal Blue |
 | ![#c792ea](https://place-hold.it/15/c792ea/c792ea?text=+) `#c792ea` | Control Keywords, Storage Types, Regex symbols and operators, Markdown Links, Terminal Magenta |
 | ![#809191](https://place-hold.it/15/809191/809191?text=+) `#809191` | Comments |
