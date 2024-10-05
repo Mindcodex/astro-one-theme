@@ -4,7 +4,7 @@ All notable changes to the "Astro One" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.0.0] - 2024-10-04
+## [1.1.0] - 2024-10-05
 
 - Added support for JSON syntax.
 - Added support for CSS/SCSS
@@ -15,6 +15,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Fix variable.defaultLibrary.foreground color.
 - Fix regexp colors.
 
-## [0.0.1] - 2024-09-04
+## [1.0.0] - 2024-09-04
 
 - Initial release.

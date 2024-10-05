@@ -411,7 +411,6 @@
 				"foreground": "#d19a66"
 			}
 		},
-	
 		{
 			"name": "keyword.operator.misc.rust",
 			"scope": "keyword.operator.misc.rust",

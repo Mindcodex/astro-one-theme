@@ -2,7 +2,7 @@
   "name": "astro-one-theme",
   "displayName": "Astro One",
   "description": "",
-  "version": "0.0.1",
+  "version": "1.1.0",
   "publisher": "Mindcodex",
   "engines": {
     "vscode": "^1.93.0"
